@@ -4,6 +4,9 @@ Site institucional desenvolvido para apresentação profissional de uma psicólo
 
 A proposta do projeto é funcionar como um cartão de visita online, reunindo informações essenciais de forma simples, clara e acessível.
 
+## Acesse o site:  
+https://www.psiraquelpontifice.com.br/
+
 ## Objetivo
 
 Criar uma landing page leve e responsiva que permita:
