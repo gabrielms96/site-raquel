@@ -33,11 +33,15 @@ Criar uma landing page leve e responsiva que permita:
 - Deploy estático (GitHub Pages / Netlify)
 
 ## Estrutura do projeto
+
+```
 /
 ├── index.html
 ├── styles.css
 ├── script.js
 └── assets/
+    └── foto.jpg
+```
 
 ## Publicação
 
