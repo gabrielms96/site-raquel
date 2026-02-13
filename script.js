@@ -6,6 +6,10 @@ const CONFIG = {
   whatsappMensagemPadrao: "Olá, Raquel! Vi seu site e gostaria de saber sobre atendimento psicológico."
 };
 
+function retornarTopo() {
+  window.scrollTo(0, 0);
+}
+
 // ====== Helpers ======
 function buildWhatsLink(message) {
   const text = encodeURIComponent(message);
