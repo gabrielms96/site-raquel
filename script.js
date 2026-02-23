@@ -47,7 +47,7 @@ nav?.querySelectorAll("a").forEach(a => {
 // ====== WhatsApp links ======
 const whatsUrl = buildWhatsLink(CONFIG.whatsappMensagemPadrao);
 
-["btnWhatsHero", "btnWhatsCard", "btnWhatsTcc", "linkWhats"].forEach(id => {
+["btnWhatsHero", "btnWhatsCard", "btnWhatsTc", "linkWhats"].forEach(id => {
   const el = document.getElementById(id);
   if (el) el.setAttribute("href", whatsUrl);
 });
