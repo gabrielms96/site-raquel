@@ -1,7 +1,7 @@
 // ====== CONFIG (troque aqui) ======
 const CONFIG = {
-  nome: "Raquel Pontifice",
-  instagram: "psicologa.raquelpontifice",
+  nome: "Raquel Mizael",
+  instagram: "psicologa.raquelmizael",
   whatsappDigits: "5535991725977",
   whatsappMensagemPadrao: "Olá, Raquel! Vi seu site e gostaria de saber sobre atendimento psicológico."
 };
